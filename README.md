@@ -1,2 +1,3 @@
 # INSY4970Lab
-username: AUusername<br>
+username: baj0019<br>
+‘This is the readme file for the INSY4970'
